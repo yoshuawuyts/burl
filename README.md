@@ -84,6 +84,7 @@ links.get();
 
 ## See also
 - [linkstash][linkstash]
+- [burl-invert][burl-invert]
 
 ## License
 [MIT](https://tldrlegal.com/license/mit-license)
@@ -98,3 +99,4 @@ links.get();
 [downloads-url]: https://npmjs.org/package/burl
 
 [linkstash]: http://github.com/yoshuawuyts/linkstash
+[burl-invert]: https://github.com/yoshuawuyts/burl-invert
