@@ -1,13 +1,19 @@
 {
   "name": "burl",
   "version": "1.0.0",
-  "description": "",
+  "description": "Compute `hal-json:_links` `previous` and `next` values",
   "main": "index.js",
   "scripts": {
     "test": "make test"
   },
   "repository": "yoshuawuyts/burl",
-  "keywords": [],
+  "keywords": [
+    "hal",
+    "links",
+    "json",
+    "api",
+    "compose"
+  ],
   "license": "MIT",
   "dependencies": {
     "linkstash": "^1.0.0"
